@@ -5,6 +5,7 @@
 #include "player.h"
 
 //Helloadad
+std::cout << std::endl;
 
 Board::Board(){
    
